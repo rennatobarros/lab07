@@ -1,6 +1,6 @@
 #include <exception>
 
-using::exception;
+using std::exception;
 
 class FalhaNaLeitura : public exception
 {
